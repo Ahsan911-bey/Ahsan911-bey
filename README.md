@@ -2,70 +2,35 @@
 
 # Ahsan Shahzad
 
-### Full Stack Engineer • System Architect • UI/UX Focused Developer
-
-<p align="center">
-  Building scalable full-stack systems, modern SaaS platforms, and high-performance user experiences.
-</p>
+### Full Stack Engineer • Scalable Systems Architect • Modern Web Specialist
 
 <p align="center">
   <a href="https://ahsan-shahzad.vercel.app/">Portfolio</a> •
+  <a href="mailto:thenightmare99xx@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/ahsan-shahzad-a59b45346">LinkedIn</a> •
-  <a href="https://wa.me/923176174401">WhatsApp</a> •
-  <a href="https://www.fiverr.com/ahsan_shahzad0">Fiverr</a>
+  <a href="https://www.fiverr.com/ahsan_shahzad0">Fiverr</a> •
+  <a href="https://wa.me/923176174401">WhatsApp</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ahsan911-bey&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%2B+Next.js+Specialist;Scalable+Backend+Architect;TypeScript+%7C+NestJS+%7C+Spring+Boot;Building+High-Performance+Digital+Products" />
 
 </div>
 
 ---
 
-# Engineering Focus
+# About Me
 
-```ts
-const ahsan = {
-  role: "Full Stack Engineer",
-  
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS",
-    "Redux",
-    "Zustand",
-    "Framer Motion"
-  ],
+I engineer high-performance full stack applications with modern frontend architectures, scalable backend systems, and production-grade infrastructure.
 
-  backend: [
-    "Node.js",
-    "NestJS",
-    "Spring Boot",
-    "REST APIs"
-  ],
+My focus is building products that combine:
 
-  databases: [
-    "PostgreSQL",
-    "MongoDB",
-    "MySQL",
-    "Redis",
-    "Prisma"
-  ],
+- Elite UI/UX
+- Fast and scalable architectures
+- Clean system design
+- Production-ready deployment workflows
+- Strong developer experience
 
-  infrastructure: [
-    "Docker",
-    "Linux",
-    "Nginx",
-    "Cloudflare"
-  ],
-
-  currentlyBuilding: [
-    "Scalable SaaS Platforms",
-    "High-performance Web Systems",
-    "AI-integrated Applications"
-  ]
-}
-```
+I specialize in creating modern SaaS platforms, conversion systems, dashboards, enterprise APIs, and scalable web applications using cutting-edge technologies.
 
 ---
 
@@ -127,24 +92,24 @@ const ahsan = {
 
 # Featured Projects
 
-## Vivigro
-Modern agriculture-focused platform engineered with scalable architecture and production-ready systems.
-
-🔗 https://ahsan-shahzad.vercel.app/projects/vivigro
-
----
-
 ## SimplyConverty
 Advanced media/file conversion platform with scalable backend workflows and modern UI systems.
 
-🔗 https://ahsan-shahzad.vercel.app/projects/simplyconverty
+🔗 http://simplyconverty.com/
 
 ---
 
-## University Portal
-Full-stack university LMS/portal focused on performance, usability, and scalable academic workflows.
+## SwiftConvert
+Advanced Frontend based media/file conversion platform with modern UI systems.
 
-🔗 https://ahsan-shahzad.vercel.app/projects/university-portal
+🔗 https://swiftconvert-2025.vercel.app/
+
+---
+
+## FreeConvert(Clone)
+Advanced Frontend based media/file conversion platform with Pdf/Image Tools And Freeconvert.com's UI Clone.
+
+🔗 https://cs-converter-website.vercel.app/
 
 ---
 
