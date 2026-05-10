@@ -112,19 +112,20 @@ Advanced Frontend based media/file conversion platform with Pdf/Image Tools And 
 🔗 https://cs-converter-website.vercel.app/
 
 ---
-
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahsan911-bey&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahsan911-bey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan911-bey&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan911-bey&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsan911-bey&theme=tokyo-night&hide_border=true" />
+<br/>
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan911-bey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
 ---
 
 # Professional Philosophy
