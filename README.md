@@ -1,93 +1,191 @@
-<h1 align="center">Hi 👋, I'm Ahsan Shahzad</h1>
-<h3 align="center">Front-End Developer | React & Next.js Developer | UI Enthusiast</h3>
+<div align="center">
+
+# Ahsan Shahzad
+
+### Full Stack Engineer • Scalable Systems Architect • Modern Web Specialist
 
 <p align="center">
   <a href="https://ahsan-shahzad.vercel.app/">Portfolio</a> •
   <a href="mailto:thenightmare99xx@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ahsan-shahzad-a59b45346">LinkedIn</a> •
+  <a href="https://www.fiverr.com/ahsan_shahzad0">Fiverr</a> •
+  <a href="https://wa.me/923176174401">WhatsApp</a>
 </p>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%2B+Next.js+Specialist;Scalable+Backend+Architect;TypeScript+%7C+NestJS+%7C+Spring+Boot;Building+High-Performance+Digital+Products" />
 
-## 🚀 About Me
-
-- 🎓 BSCS Student at COMSATS University Sahiwal
-- 💻 Front-End Developer focused on modern web technologies
-- ⚡ Skilled in React.js, Next.js, TypeScript & Tailwind CSS
-- 🎨 Passionate about building beautiful and responsive UIs
-- 🌱 Currently learning backend systems, hosting & scalable architecture
-- 🧠 Interested in AI integrations and real-world SaaS products
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# About Me
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I engineer high-performance full stack applications with modern frontend architectures, scalable backend systems, and production-grade infrastructure.
 
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+My focus is building products that combine:
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- Elite UI/UX
+- Fast and scalable architectures
+- Clean system design
+- Production-ready deployment workflows
+- Strong developer experience
+
+I specialize in creating modern SaaS platforms, conversion systems, dashboards, enterprise APIs, and scalable web applications using cutting-edge technologies.
 
 ---
 
-# 🌟 Featured Projects
+# Tech Stack
 
-## 🔹 Vivigro
-A modern agriculture-focused platform built with modern web technologies.
+## Frontend Architecture
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" />
+</p>
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Redux
+- Zustand
+- Framer Motion
+- Zod
+- HTML5
+- CSS3
+
+---
+
+## Backend Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring" />
+</p>
+
+- Node.js
+- NestJS
+- Spring Boot
+- Java
+- REST API Architecture
+- Authentication Systems
+- Microservices
+- Scalable Server Design
+
+---
+
+## Data & Persistence
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" />
+</p>
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Prisma ORM
+- Query Optimization
+- Relational Modeling
+- Caching Strategies
+
+---
+
+## Deployment & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git" />
+</p>
+
+- Docker
+- Linux Server Administration
+- Nginx
+- Cloudflare
+- CI/CD Workflows
+- VPS Deployment
+- Reverse Proxy Configuration
+- SSL/TLS Management
+
+---
+
+# Featured Projects
+
+## Vivigro
+
+Enterprise-grade agriculture platform focused on performance, scalability, and modern UI architecture.
+
+### Stack
+Next.js • TypeScript • PostgreSQL • Prisma • Tailwind CSS
 
 🔗 https://ahsan-shahzad.vercel.app/projects/vivigro
 
 ---
 
-## 🔹 SimplyConverty
-A smart file/media conversion platform with modern UI & conversion workflows.
+## SimplyConverty
+
+High-performance media/file conversion platform with scalable backend workflows and modern UX.
+
+### Stack
+Next.js • Node.js • FFmpeg • Docker • Redis
 
 🔗 https://ahsan-shahzad.vercel.app/projects/simplyconverty
 
 ---
 
-## 🔹 University Portal
-A university LMS/portal project focused on student experience and management.
+## University Portal
+
+Modern university LMS/dashboard system focused on optimized workflows and clean architecture.
+
+### Stack
+React • TypeScript • Authentication • Dashboard Systems
 
 🔗 https://ahsan-shahzad.vercel.app/projects/university-portal
 
 ---
 
-## 📈 GitHub Stats
+# GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan911-bey&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan911-bey&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahsan911-bey&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan911-bey&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan911-bey&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# Current Focus
+
+- Scalable SaaS Architectures
+- High-performance Frontend Systems
+- Enterprise-grade Backend Engineering
+- AI-integrated Platforms
+- DevOps & Infrastructure Automation
+
+---
+
+# Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ahsan-shahzad-a59b45346">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.fiverr.com/ahsan_shahzad0">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fiverr.svg" width="48" />
+</a>
+
+<a href="https://wa.me/923176174401">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="48" />
+</a>
 </p>
 
 ---
 
-## 🌐 Portfolio
+<div align="center">
 
-🔗 https://ahsan-shahzad.vercel.app/
+### Engineering scalable systems with modern architecture, performance, and clean user experience.
 
----
-
-## 📫 Contact Me
-
-- 📧 thenightmare99xx@gmail.com
-- 🌐 https://ahsan-shahzad.vercel.app/
-
----
-
-<p align="center">
-  ⚡ Building modern web experiences with clean UI & scalable architecture.
-</p>
+</div>
